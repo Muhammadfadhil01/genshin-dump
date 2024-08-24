@@ -1,0 +1,2 @@
+# genshin-dump
+desain aja
